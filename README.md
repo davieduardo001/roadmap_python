@@ -10,10 +10,10 @@ O objetivo deste roadmap é proporcionar uma visão clara e organizada do que é
 
 ### 1. Fundamentos de Python
 
-- [ ] **Sintaxe Básica**  
+- [X] **Sintaxe Básica**  
   - Tipos de dados, variáveis, operadores, controle de fluxo (if, else, loops)
   
-- [ ] **Funções**  
+- [X] **Funções**  
   - Funções definidas pelo usuário, parâmetros, retorno de valores
   
 - [ ] **Estruturas de Dados**  
