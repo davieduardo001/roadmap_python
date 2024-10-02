@@ -16,10 +16,10 @@ O objetivo deste roadmap é proporcionar uma visão clara e organizada do que é
 - [X] **Funções**  
   - Funções definidas pelo usuário, parâmetros, retorno de valores
   
-- [ ] **Estruturas de Dados**  
+- [X] **Estruturas de Dados**  
   - Listas, dicionários, tuplas, sets
   
-- [ ] **Compreensão de Listas (List Comprehension)**
+- [X] **Compreensão de Listas (List Comprehension)**
 
 - [ ] **Módulos e Pacotes**  
   - Como usar e criar módulos, pacotes e a estrutura de arquivos
